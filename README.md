@@ -17,16 +17,15 @@ Command:
 3.Install Dependencies:
   .Angular projects rely on various dependencies, which are listed in the package.json file. To install these dependencies, use the npm install command.
   
-Command:
-  npm install
-  
+Command: npm install
+
 This command will download and install all the necessary packages, creating a node_modules folder in your project directory.
 
 4. Start the Development Server:
    .Once the dependencies are installed, you can start the Angular development server using the ng serve command. This will compile the project and serve it locally, making it accessible in your         browser.
    
-Command:
-  ng serve
+Command: ng serve
+
   If you want to specify a port, you can use the --port option. For example:
 
 Command:
